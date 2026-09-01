@@ -18,8 +18,5 @@ main:
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Industry Experience"
-    url: "/#-industry-experience"
+  - title: "Experiences"
+    url: "/#-experiences"

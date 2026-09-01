@@ -1,5 +1,6 @@
 
-# 📝 Publications 
+# 📝 Publications
+(*: equal contribution, __: student first author I co-mentor, #: corresponding author)
 
 - `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
 - `arXiv 2025` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2502.18924), Ziyue Jiang, **Yi Ren**, et al.

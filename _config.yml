@@ -25,8 +25,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   location         : "Hong Kong, China"
-  employer         : "City University of Hong Kong"
-  pubmed           : 
+  employer         : "City Univ. of Hong Kong"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6756CyEAAAAJ"
   email            : "zhengjie.yang@sydney.edu.au"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
