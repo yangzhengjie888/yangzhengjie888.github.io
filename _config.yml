@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhengjie Yang (杨正杰)"
+title                    : "Zhengjie Yang"
 description              : "Focusing on Federated Learning, Weakly Supervised Learning, and MLLMs"
 repository               : "yangzhengjie888/yangzhengjie888.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhengjie Yang (杨正杰)"
+  name             : "Zhengjie Yang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   location         : "Hong Kong, China"
