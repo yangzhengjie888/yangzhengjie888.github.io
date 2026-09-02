@@ -1,5 +1,5 @@
 # 🛠 Services
-- *2026*, Special Issues Chair for AI4Science
+- *2026*, Special Issue Chair for AI4Science
 - *2025*, Track Co-Chair for SmartIoT
 - *2025*, Guest Editor of Special Issue "AI-Empowered Internet of Things" for Sensors
 - *2021*, Web Chair for EAI ADHOCNETS
