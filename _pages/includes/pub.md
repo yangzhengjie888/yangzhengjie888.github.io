@@ -1,20 +1,23 @@
 
 # 📝 Publications
-(*: equal contribution, __: student first author I co-mentor, #: corresponding author)
+(*: equal contribution, <u>underlined name</u>: student first author I co-mentor, #: corresponding author)
 
-- `ACL Findings 2025` [Chain-Talker: Chain Understanding and Rendering for Empathetic Conversational Speech Synthesis](https://aclanthology.org/2025.findings-acl.101/), Yifan Hu, Rui Liu, **Yi Ren**, Xiang Yin, Haizhou Li
-- `arXiv 2025` [MegaTTS 3: Sparse Alignment Enhanced Latent Diffusion Transformer for Zero-Shot Speech Synthesis](https://arxiv.org/abs/2502.18924), Ziyue Jiang, **Yi Ren**, et al.
-- `ACM-MM 2024` [Generative Expressive Conversational Speech Synthesis](https://dl.acm.org/doi/abs/10.1145/3664647.3681697), Rui Liu, Yifan Hu, **Yi Ren**, Xiang Yin, Haizhou Li
-- `AAAI 2024` [AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://arxiv.org/abs/2304.06802), Rongjie Huang, Mingze Li, Dongchao Yang, Jiatong Shi, Xuankai Chang, Zhenhui Ye, Yuning Wu, Zhiqing Hong, Jiawei Huang, Jinglin Liu, **Yi Ren**, Zhou Zhao, Shuicheng Yan
-- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
-- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.
-- ``ACL 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.
-- ``ACL 2023`` [FluentSpeech: Stutter-Oriented Automatic Speech Editing with Context-Aware Diffusion Models](), Ziyue Jiang, Qian Yang, Jialong Zuo, Zhenhui Ye, Rongjie Huang, **Yi Ren** and Zhou Zhao
-- ``ACL 2023`` [Revisiting and Incorporating GAN and Diffusion Models in High-Fidelity Speech Synthesis](), Rongjie Huang, **Yi Ren**, Ziyue Jiang, et al.
-- ``ACL 2023`` [Improving Prosody with Masked Autoencoder and Conditional Diffusion Model For Expressive Text-to-Speech](), Rongjie Huang, Chunlei Zhang, **Yi Ren**, et al.
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-- `INTERSPEECH 2023` [StyleS2ST: zero-shot style transfer for direct speech-to-speech translation](https://arxiv.org/abs/2305.17732), Kun Song, **Yi Ren**, Yi Lei, et al.
-- `INTERSPEECH 2023` [GenerTTS: Pronunciation Disentanglement for Timbre and Style Generalization in Cross-Lingual Text-to-Speech](https://arxiv.org/abs/2306.15304), Yahuan Cong, Haoyu Zhang, Haopeng Lin, Shichao Liu, Chunfeng Wang, **Yi Ren**, et al.
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
-- `NeurIPS 2022` [GenerSpeech: Towards Style Transfer for Generalizable Out-Of-Domain Text-to-Speech](), Rongjie Huang, **Yi Ren**, et al.
-- `NeurIPS 2022` [M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus](), Lichao Zhang, Ruiqi Li, Shoutong Wang, Liqun Deng, Jinglin Liu, **Yi Ren**, et al. *(Datasets and Benchmarks Track)* [![](https://img.shields.io/github/stars/M4Singer/M4Singer?style=social&label=Dataset+Stars)](https://github.com/M4Singer/M4Singer)
+- `IEEE TETCI 2026` [SageIQ: Scene-Graph-Guided Blind Image Quality Assessment](https://doi.org/10.1109/TETCI.2026.3688153), <u>Renwei Yang</u>, **Zhengjie Yang**, Yun Wang, Dapeng Oliver Wu, Shiqi Wang
+- `IEEE TCC 2026` [Causality-aware Graph Mixture of Experts for Accurate Multi-cloud Workload Prediction](https://doi.org/10.1109/TCC.2026.3689897), <u>Yongcan Luo</u>, Zhihao Yu, Jiahao Zheng, **Zhengjie Yang**, Lei Sun, Dapeng Wu
+- `IEEE TIP 2026` [SMFormer: Empowering Self-supervised Stereo Matching via Foundation Models and Data Augmentation](https://doi.org/10.1109/TIP.2026.3684415), <u>Yun Wang</u>, **Zhengjie Yang**#, Jiahao Zheng, Zhanjie Zhang, Dapeng Oliver Wu, Yulan Guo
+- `IEEE TSC 2026` [Towards Robust and Fair Partial Label Federated Learning Service](https://doi.org/10.1109/TSC.2026.3686458), <u>Sen Fu</u>, Wei Bao, **Zhengjie Yang**, Xinyi Sheng, Yichen Guo, Yuqin Liu, Bing Bing Zhou
+- `TAI 2026` [Recent Advances in Artificial Intelligence for Music Education](https://doi.org/10.53941/tai.2026.100004), <u>Guo Yu</u>, Guanyi Zhao, **Zhengjie Yang**#
+- `TechRxiv 2026` [A Survey on Efficient Federated Pruning: Progress, Challenges, and Opportunities](https://doi.org/10.36227/techrxiv.177074303.30781623/v1), Hong Huang, **Zhengjie Yang**#, Ning Chen, Juntao Hu, Xue Liu, Jinhai Yang, Dapeng Wu
+- `TAI 2026` [FedA 4: Federated Learning with Anti-Bias Aggregation and TrAjectory-Based Adaptation](https://doi.org/10.53941/tai.2026.100003), <u>Guanyi Zhao</u>, Juntao Hu, **Zhengjie Yang**#, Dapeng Oliver Wu
+- `CIKM 2025` [Toward Secure Federated Partial Label Learning Against Poisoning Attacks](https://doi.org/10.1145/3746252.3760849), <u>Xubin Chen</u>, **Zhengjie Yang**, Xinyi Sheng, Sen Fu, Wei Bao
+- `TAI 2025` [Federated Learning for Medical Image Analysis: Privacy-Preserving Paradigms and Clinical Challenges](https://doi.org/10.53941/tai.2025.100010), <u>Juntao Hu</u>, **Zhengjie Yang**#, Peng Wang, Guanyi Zhao, Hong Huang, Zhimin Zong, Dapeng Oliver Wu
+- `TAI 2025` [Recent Advances in Artificial Intelligence for Management and Financial Technology](https://doi.org/10.53941/tai.2025.100009), <u>Renwei Yang</u>&#42;, <u>Yun Wang</u>&#42;, <u>Yongcan Luo</u>&#42;, **Zhengjie Yang**#, Zhimin Zong, Dapeng Oliver Wu
+- `IEEE TNNLS 2025` [Pleno-Alignment Framework for Stock Trend Prediction](https://doi.org/10.1109/TNNLS.2025.3561811), <u>Yongcan Luo</u>&#42;, <u>Jiahao Zheng</u>&#42;, **Zhengjie Yang**, Ning Chen, Dapeng Wu
+- `IEEE TDSC 2024` [FairGuard: A Fairness Attack and Defense Framework in Federated Learning](https://doi.org/10.1109/TDSC.2024.3520134), <u>Xinyi Sheng</u>, **Zhengjie Yang**, Wei Bao
+- `IEEE TBD 2024` [Personalized Federated Learning with Contrastive Momentum](https://doi.org/10.1109/TBDATA.2024.3403387), <u>Sen Fu</u>, **Zhengjie Yang**, Chuang Hu, Wei Bao
+- `IEEE ICDCS 2023` [Hierarchical Federated Learning with Adaptive Momentum in Multi-tier Networks](https://doi.org/10.1109/ICDCS57875.2023.00053), **Zhengjie Yang**, Sen Fu, Wei Bao, Dong Yuan, Bing Bing Zhou
+- `IEEE TPDS 2023` [Hierarchical Federated Learning with Momentum Acceleration in Multi-tier Networks](https://doi.org/10.1109/TPDS.2023.3294688), **Zhengjie Yang**, Sen Fu, Wei Bao, Dong Yuan, Albert Y. Zomaya
+- `IEEE TPDS 2022` [Federated Learning with Nesterov Accelerated Gradient](https://doi.org/10.1109/TPDS.2022.3206480), **Zhengjie Yang**, Wei Bao, Dong Yuan, Nguyen H. Tran, Albert Y. Zomaya
+- `IEEE TAI 2022` [FastSlowMo: Federated Learning with Combined Worker and Aggregator Momenta](https://doi.org/10.1109/TAI.2022.3187678), **Zhengjie Yang**, Sen Fu, Wei Bao, Dong Yuan, Albert Y. Zomaya
+- `ACM MSWiM 2018` [SFog: Seamless Fog Computing Environment for Mobile IoT Applications](https://doi.org/10.1145/3242102.3242107), Wei Bao, Dong Yuan, **Zhengjie Yang**, Shen Wang, Bing Bing Zhou, Stewart Adams, Albert Y. Zomaya
+- `IEEE Communications Magazine 2017` [Follow Me Fog: Toward Seamless Handover Timing Schemes in a Fog Computing Environment](https://doi.org/10.1109/MCOM.2017.1700363), Wei Bao, Dong Yuan, **Zhengjie Yang**, Shen Wang, Wei Li, Bing Bing Zhou, Albert Y. Zomaya
