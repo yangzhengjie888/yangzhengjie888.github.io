@@ -43,7 +43,12 @@ jobs:
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
         run: |
-          timeout 5m python main.py
+          status=0
+          timeout --kill-after=10s 5m python -u main.py || status=$?
+          if [ "$status" -eq 124 ] || [ "$status" -eq 137 ]; then
+            echo "::error::Google Scholar fetch exceeded 5 minutes. Check the request logs above for HTTP 403, CAPTCHA, or connection timeouts. No citation data will be published."
+          fi
+          exit "$status"
 
       - name: Push citation data to google-scholar-stats branch
         working-directory: ./google_scholar_crawler/results
