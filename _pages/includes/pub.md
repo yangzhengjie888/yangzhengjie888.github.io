@@ -2,6 +2,7 @@
 # 📝 Publications
 (*: equal contribution, <u>underlined name</u>: student first author I co-mentor, #: corresponding author)
 
+- `NeurIPS 2026` FedCAG: Federated Causality-Aware Graph Learning for Multi-Cloud Workload Forecasting, <u>Yongcan Luo</u>, **Zhengjie Yang**#, Jiahao Zheng, Hao Wang, Wei Bao, Dapeng Wu
 - `IEEE TETCI 2026` [SageIQ: Scene-Graph-Guided Blind Image Quality Assessment](https://doi.org/10.1109/TETCI.2026.3688153), <u>Renwei Yang</u>, **Zhengjie Yang**, Yun Wang, Dapeng Oliver Wu, Shiqi Wang
 - `IEEE TCC 2026` [Causality-aware Graph Mixture of Experts for Accurate Multi-cloud Workload Prediction](https://doi.org/10.1109/TCC.2026.3689897), <u>Yongcan Luo</u>, Zhihao Yu, Jiahao Zheng, **Zhengjie Yang**, Lei Sun, Dapeng Wu
 - `IEEE TIP 2026` [SMFormer: Empowering Self-supervised Stereo Matching via Foundation Models and Data Augmentation](https://doi.org/10.1109/TIP.2026.3684415), <u>Yun Wang</u>, **Zhengjie Yang**#, Jiahao Zheng, Zhanjie Zhang, Dapeng Oliver Wu, Yulan Guo
